@@ -1,0 +1,3 @@
+Tree Regression:
+-Puedo extenederlo N variables independientes?
+-Cuantos split hacer?
