@@ -17,6 +17,6 @@ rules = apriori(transactions, min_support = 0.003, min_confidence = 0.2, min_lif
 
 # Visualising the results
 results = list(rules)
-print(results[2][0])
-print(results[2][1])
-print(results[2][2])
+print(results[0][0])
+print(results[0][1])
+print(results[0][2])
